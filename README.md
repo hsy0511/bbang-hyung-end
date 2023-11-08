@@ -67,4 +67,6 @@ demo = gr.Interface(fn=inference, inputs="text", outputs="image")
 demo.launch(debug=True, share=True)
 ```
 
-![image](https://github.com/hsy0511/bbang-hyung-end/assets/104752580/f57a5224-c189-42aa-a58f-21d031359c9d)
+![image](https://github.com/hsy0511/bbang-hyung-end/assets/104752580/bcc7ef56-58dc-4b05-a302-c562de7a7b96)
+
+![image](https://github.com/hsy0511/bbang-hyung-end/assets/104752580/5c6b326e-9911-4c65-92fe-c7ff7dfa9e89)
