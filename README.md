@@ -1,5 +1,7 @@
 # bbang-hyung-end
 # 고해상도 이미지 생성 Stable Diffusion 
+코드 실행 본 : https://colab.research.google.com/drive/1eb9h1PN7HM7oxQKwFMxxUddM5XG_Q1zt#scrollTo=IGAMauVyjFU-
+
 ```python
 !nvidia-smi
 ```
