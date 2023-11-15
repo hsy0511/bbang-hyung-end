@@ -1,5 +1,5 @@
 # bbang-hyung-end
-# 고해상도 이미지 생성 Stable Diffusion v2
+# 고해상도 이미지 생성 Stable Diffusion 
 ```python
 !nvidia-smi
 ```
